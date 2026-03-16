@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "sbom-checker-go placeholder — replace with real binary from https://gitflic.ru/project/etecs/sbom-checker-go/releases"
+echo "Args: $@"
+exit 0
